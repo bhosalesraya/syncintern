@@ -73,7 +73,7 @@ const songs = [
         title: "Rabbaru Gagulu",
         artist: "Daler Mehndi",
         img: "music/yama.jpg",
-        src: "music/Rubbaru Gajulu.mp3"
+        src: "music/Rubberu Gajulu.mp3"
     },
 ]
 
