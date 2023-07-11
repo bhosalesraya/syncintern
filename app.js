@@ -69,12 +69,7 @@ const songs = [
         img: "music/gunde.jpg",
         src: "music/Gallanthayyinde.mp3"
     },
-    {
-        title: "Rabbaru Gagulu",
-        artist: "Daler Mehndi",
-        img: "music/yama.jpg",
-        src: "music/Rubberu Gajulu.mp3"
-    },
+    
 ]
 
 const playlistContainer = document.querySelector('#playlist'),
